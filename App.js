@@ -1,3 +1,4 @@
+// Libraries ****************************************************************************
 import React, { Component } from 'react';
 import { Platform, StatusBar, StyleSheet, View } from 'react-native';
 import { AppLoading, Asset, Font, Icon } from 'expo';
