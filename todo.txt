@@ -10,7 +10,7 @@ X Determine base level components.
 Base Level Components:
 O main
     - display
-        - home 
+        - home (screen)
             - date
             - shift
             - actual
@@ -18,7 +18,7 @@ O main
             - code
             - notes
             - save
-        - profile
-        - log
-        -settings
-    - nav
+        - profile (screen)
+        - log (screen)
+        -settings (screen)
+    - nav (navigation)
