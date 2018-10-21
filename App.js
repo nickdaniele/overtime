@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 import { Platform, StatusBar, StyleSheet, View } from 'react-native';
 import { AppLoading, Asset, Font, Icon } from 'expo';
 
+// Views ********************************************************************************
+import Main from './Main';
+
+// **************************************************************************************
 export default class App extends Component {
   state = {
     isLoadingComplete: false,
@@ -20,6 +24,7 @@ export default class App extends Component {
       return (
         <View style={styles.container}>
           {Platform.OS === 'ios' && <StatusBar barStyle="default" />}
+          <Main />
         </View>
       );
     }

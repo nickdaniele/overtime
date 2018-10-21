@@ -8,20 +8,21 @@ X Determine base level components.
 
 
 Base Level Components:
-X main
-    - display
-        - home (screen)
-            - date
-            - shift
-            - actual
-            - overtime
-            - code
-            - notes
-            - save
-        - profile (screen)
-        - log (screen)
-        -settings (screen)
-    - nav (navigation)
+X app
+    - main
+        - display
+            - home (screen)
+                - date
+                - shift
+                - actual
+                - overtime
+                - code
+                - notes
+                - save
+            - profile (screen)
+            - log (screen)
+            -settings (screen)
+        - nav (navigation)
 
 To Look Up:
 - 
