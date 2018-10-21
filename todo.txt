@@ -1,0 +1,7 @@
+- Set up git hub repo for site.
+- Rename app to overtime.
+- Determine base level components. 
+- Create base level components with dummy data.
+- Add styles.
+- Set up testing.
+- Write base level tests.
