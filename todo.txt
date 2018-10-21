@@ -8,7 +8,7 @@ X Determine base level components.
 
 
 Base Level Components:
-O main
+X main
     - display
         - home (screen)
             - date
@@ -22,3 +22,6 @@ O main
         - log (screen)
         -settings (screen)
     - nav (navigation)
+
+To Look Up:
+- 
