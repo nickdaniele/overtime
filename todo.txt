@@ -9,7 +9,7 @@ X Determine base level components.
 
 Base Level Components:
 X app
-    - main
+    X main
         - display
             - home (screen)
                 - date
